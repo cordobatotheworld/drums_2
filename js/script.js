@@ -4,23 +4,23 @@ const sounds = {
         preload: true
     }),
     snare: new Howl({
-        src: ['../sounds/snare.wav'],
+        src: ['./sounds/snare.wav'],
         preload: true
     }),
     hihat: new Howl({
-        src: ['../sounds/hihat.wav'],
+        src: ['./sounds/hihat.wav'],
         preload: true
     }),
     tom1: new Howl({
-        src: ['../sounds/tom1.wav'],
+        src: ['./sounds/tom1.wav'],
         preload: true
     }),
     tom2: new Howl({
-        src: ['../sounds/tom2.wav'],
+        src: ['./sounds/tom2.wav'],
         preload: true
     }),
     cymbal: new Howl({
-        src: ['../sounds/cymbal.wav'],
+        src: ['./sounds/cymbal.wav'],
         preload: true
     })
 };
