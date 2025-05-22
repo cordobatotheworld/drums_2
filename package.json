@@ -1,0 +1,25 @@
+{
+  "name": "my-drum-kit-app",
+  "version": "1.0.0",
+  "description": "A web-based electronic drum kit with zero latency, designed to run in mobile browsers.",
+  "main": "src/js/script.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here'"
+  },
+  "dependencies": {
+    "howler": "^2.2.3"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [
+    "drum",
+    "kit",
+    "electronic",
+    "audio",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
